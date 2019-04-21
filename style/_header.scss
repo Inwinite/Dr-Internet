@@ -1,0 +1,25 @@
+header {
+     
+     width: auto;
+     height: auto;
+     border: solid 1px #E9EAE8;
+     box-shadow: 0 3px 5px rgba(57, 63, 72, 0.3);
+     position: relative;
+
+    img {
+        display: inline-block;
+        width: 10%;
+        margin: 15px 15px 15px 15px;
+       }
+    h1 {
+        display: inline-block;
+        font-size: 2em;
+        position: absolute;
+        top:20px;
+        color: #817F8A;
+        padding-left: 15px;
+        border-left: solid 1px #B6B5BB;
+        
+         }
+    
+}
